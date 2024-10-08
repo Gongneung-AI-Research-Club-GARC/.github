@@ -3,8 +3,8 @@
 
 ## Hi🖐️ We are GARC!
 We are an organization where two mechanical majors, one electronics major, and one electrical major.
-- We come together to study AI and conduct projects. 
 - We are engineering students from **Seoul National University of Science and Technology** (Both B.S. and M.S.)
+- We come together to study AI and conduct projects. 
 
 So our name is **Gongneung-AI-Research-Club-GARC**! Nice to meet you!
 > since 2024. 7. 27.
