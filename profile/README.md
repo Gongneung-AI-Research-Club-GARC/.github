@@ -20,7 +20,7 @@ So our name is **Gongneung-AI-Research-Club-GARC**! Nice to meet you!
 ### Study
 1. [2024-NLP-Study](https://github.com/Gongneung-AI-Research-Club-GARC/2024-NLP-Study)
 Seq2Seq부터 Transformer & BERT까지! (완료) </br>
-2. [baseline](https://github.com/Gongneung-AI-Research-Club-GARC/baseline)
+2. [har-with-imu-transformer](https://github.com/Gongneung-AI-Research-Club-GARC/baseline)
 IMU 센서 데이터 활용 엣지 디바이스 AI 모델 개발 (진행중)
 
 > continue...🐕🐕
