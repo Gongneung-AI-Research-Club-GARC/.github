@@ -21,5 +21,5 @@ We are engineering students from Seoul National University of Science and Techno
 continue...🐕🐕
 
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeee14)](https://github.com/anuraghazra/github-readme-stats)
+![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongneung-AI-Research-Club-GARC&show_icons=true&theme=transparent)
 
