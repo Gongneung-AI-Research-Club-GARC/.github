@@ -6,7 +6,7 @@
 ### Members
 We are engineering students from Seoul National University of Science and Technology
 
-| member | Major |
+| Member | Major |
 | ------ | ------ |
 | 정예경 | Dept. of Defence AI Convergence Engineering |
 | 최재혁 | Dept. of Mechanical System Design Engineering |
