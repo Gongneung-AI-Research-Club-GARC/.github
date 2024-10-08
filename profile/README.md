@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=We+are+GARC!%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 ## Hi🖐️ We are GARC!
-We are an organization where two mechanical majors, one electronics major, and one electrical major come together to study AI and conduct projects. 
+We are an organization where two mechanical majors, one electronics major, and one electrical major.
+</br> We come together to study AI and conduct projects. 
 </br> We are engineering students who are doing their bachelor's degree and master's degree at **Seoul National University of Science and Technology**. 
 </br> Nice to meet you!
 > since 2024. 7. 27.
