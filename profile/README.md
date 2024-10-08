@@ -5,7 +5,7 @@
 > since 2024. 7. 27.
 
 ### Members
-We are engineering students from Seoul National University of Science and Technology
+We are engineering students from **Seoul National University of Science and Technology** (Both B.S. and M.S.)
 
 | Member | Major | Introduction |
 | ------ | ------ | ------ | 
