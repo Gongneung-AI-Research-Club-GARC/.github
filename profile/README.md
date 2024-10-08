@@ -28,10 +28,11 @@ We are engineering students from Seoul National University of Science and Techno
 </br><a href="https://github.com/robot-is-my-life"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 ### Study
-[2024-NLP-Study](https://github.com/Gongneung-AI-Research-Club-GARC/2024-NLP-Study)
-</br> Seq2Seq부터 Transformer & BERT까지! (완료)
-baseline
-</br> IMU 센서 데이터 활용 개발 (진행중)
+1. [2024-NLP-Study](https://github.com/Gongneung-AI-Research-Club-GARC/2024-NLP-Study)
+Seq2Seq부터 Transformer & BERT까지! (완료)
+</br>
+2. [baseline](https://github.com/Gongneung-AI-Research-Club-GARC/baseline)
+IMU 센서 데이터 활용 개발 (진행중)
 
 continue...🐕🐕
 
