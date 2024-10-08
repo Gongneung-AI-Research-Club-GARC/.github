@@ -4,13 +4,11 @@
 ## Hi🖐️ We are GARC!
 We are an organization where two mechanical majors, one electronics major, and one electrical major.
 </br> We come together to study AI and conduct projects. 
-</br> We are engineering students who are doing their bachelor's degree and master's degree at **Seoul National University of Science and Technology**. 
+</br> We are engineering students from **Seoul National University of Science and Technology** (Both B.S. and M.S.)
 </br> Nice to meet you!
 > since 2024. 7. 27.
 
 ### Members
-We are engineering students from **Seoul National University of Science and Technology** (Both B.S. and M.S.)
-
 | Member | Major | Introduction |
 | ------ | ------ | ------ | 
 | 정예경 | Dept. of Defence AI Convergence Engineering | |
