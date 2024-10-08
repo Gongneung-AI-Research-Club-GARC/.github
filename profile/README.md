@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=300&section=header&text=capsule%20render&fontSize=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header&text=capsule%20render&fontSize=0)
 
 ## We are GARC!
 since 2024. 7. 27.
@@ -19,3 +19,7 @@ We are engineering students from Seoul National University of Science and Techno
 </br> Seq2Seq부터 Transformer & BERT까지!
 
 continue...🐕🐕
+
+### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeee14)](https://github.com/anuraghazra/github-readme-stats)
+
