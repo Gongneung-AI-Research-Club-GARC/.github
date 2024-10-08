@@ -1,4 +1,5 @@
 ## We are GARC!
+since 2024. 7. 27.
 
 ### Members
 We are engineering students from Seoul National University of Science and Technology
@@ -11,4 +12,4 @@ We are engineering students from Seoul National University of Science and Techno
 <a href="https://www.instagram.com/tteokhyerim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 4. 박영훈</br> <a href="https://github.com/robot-is-my-life"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
-
+### Study
