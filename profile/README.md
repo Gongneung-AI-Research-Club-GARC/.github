@@ -34,7 +34,3 @@ Seq2Seq부터 Transformer & BERT까지! (완료) </br>
 IMU 센서 데이터 활용 개발 (진행중)
 
 > continue...🐕🐕
-
-### 
-![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongneung-AI-Research-Club-GARC&show_icons=true&theme=transparent)
-
