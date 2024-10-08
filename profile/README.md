@@ -6,12 +6,12 @@
 ### Members
 We are engineering students from Seoul National University of Science and Technology
 
-| Member | Major |
-| ------ | ------ |
-| 정예경 | Dept. of Defence AI Convergence Engineering |
-| 최재혁 | Dept. of Mechanical System Design Engineering |
-| 한혜림 | Dept. of Defence AI Convergence Engineering |
-| 박영훈 | Dept. of Electrical and Information Engineering |
+| Member | Major | Introduction |
+| ------ | ------ | ------ | 
+| 정예경 | Dept. of Defence AI Convergence Engineering | |
+| 최재혁 | Dept. of Mechanical System Design Engineering | |
+| 한혜림 | Dept. of Defence AI Convergence Engineering | Growing! |
+| 박영훈 | Dept. of Electrical and Information Engineering | evar ssevar man.. |
 
 ### Contact method
 1. 정예경
