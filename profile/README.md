@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=500&section=header&text=capsule%20render&fontSize=0)
+
 ## We are GARC!
 since 2024. 7. 27.
 
