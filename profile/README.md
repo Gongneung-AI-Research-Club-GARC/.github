@@ -14,4 +14,6 @@ We are engineering students from Seoul National University of Science and Techno
 
 ### Study
 [2024-NLP-Study](https://github.com/Gongneung-AI-Research-Club-GARC/2024-NLP-Study)
-Seq2Seq부터 Transformer & BERT까지
+</br> Seq2Seq부터 Transformer & BERT까지!
+
+continue...🐕🐕
