@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header&text=capsule%20render&fontSize=0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=We+are+GARC!%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 ## We are GARC!
 > since 2024. 7. 27.
