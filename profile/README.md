@@ -1,7 +1,6 @@
-# .github
-We are GARC!
+## We are GARC!
 
-## Members
+### Members
 We are engineering students from Seoul National University of Science and Technology
 
 1. 정예경
