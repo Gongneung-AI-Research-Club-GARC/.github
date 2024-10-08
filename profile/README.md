@@ -14,7 +14,7 @@ We are engineering students from Seoul National University of Science and Techno
 | 한혜림 | Dept. of Defence AI Convergence Engineering | Growing! |
 | 박영훈 | Dept. of Electrical and Information Engineering | evar ssevar man.. |
 
-### Contact method
+### Contact 
 1. 정예경
 </br><a href="https://github.com/AKJ457"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
 2. 최재혁
