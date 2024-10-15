@@ -13,7 +13,7 @@ So our name is **Gongneung-AI-Research-Club-GARC**! Nice to meet you!
 | Member | Major | Introduction |
 | ------ | ------ | ------ | 
 | 정예경 | Dept. of Defence AI Convergence Engineering | |
-| 최재혁 | Dept. of Mechanical System Design Engineering | |
+| 최재혁 | Dept. of Mechanical System Design Engineering | 군인 (아님) |
 | 한혜림 | Dept. of Defence AI Convergence Engineering | Growing! |
 | 박영훈 | Dept. of Electrical and Information Engineering | evar ssevar man.. |
 
