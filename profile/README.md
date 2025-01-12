@@ -21,7 +21,9 @@ So our name is **Gongneung-AI-Research-Club-GARC**! Nice to meet you!
 1. [2024-NLP-Study](https://github.com/Gongneung-AI-Research-Club-GARC/2024-NLP-Study)
 Seq2Seq부터 Transformer & BERT까지! (완료) </br>
 2. [har-with-imu-transformer](https://github.com/Gongneung-AI-Research-Club-GARC/baseline)
-IMU 센서 데이터 활용 엣지 디바이스 AI 모델 개발 (진행중)
+IMU 센서 데이터 활용 엣지 디바이스 AI 모델 개발 (잠시 멈춤!)
+3. [2025-강화학습-study]()
+데이비드 실버와 혁펜하임과 함께하는 강화학습 2주 스터디 렛츠고!
 
 > continue...🐕🐕
 
